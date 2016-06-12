@@ -1,0 +1,15 @@
+*.mode*
+*.pbxuser
+*.perspective*
+*.pyc
+.DS_Store
+
+# Android
+bin
+gen
+libs
+obj
+local.properties
+
+# WebKit
+jni/jsc/Tools/Scripts/webkitpy/thirdparty/autoinstalled
